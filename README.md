@@ -1,2 +1,2 @@
 # HackerRank-SQL-Basic-Skills-Certification-Test
-<img src="" alt="Sorry">
+<img src="./SQL.png" alt="Sorry">
